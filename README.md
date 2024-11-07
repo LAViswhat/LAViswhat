@@ -1,6 +1,6 @@
 ## *Hi there!* 👋  
 
-*I’m Alexander, a frontend developer from Chișinău, Moldova.*
+*I’m Alexandr, a frontend developer from Chișinău, Moldova.*
 
 *Passionate about creating sleek, responsive web applications!* 🚀 
 
