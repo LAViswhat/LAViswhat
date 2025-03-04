@@ -1,15 +1,13 @@
 ## *Hi there!* 👋  
 
-*I’m Alexandr, a frontend developer from Chișinău, Moldova.*
-
-*Passionate about creating sleek, responsive web applications!* 🚀 
+*I’m Alexandr, a frontend developer from Chișinău, Moldova.* 🚀
 
 ---
 
  ### 👨‍💻*About Me*
-- 🎨 *I love crafting intuitive user interfaces that enhance user experience.*
+- 🎨 *I love to create beautiful things, playing with button styles, smooth transitions and adding new functionality.*
 - 💡 *Constantly exploring new frameworks, libraries, and best practices.*
-- 🌱 *Currently focused on expanding my skills in **Vue.js***.
+- 🌱 *Currently focused on expanding my skills in **Vue.js** and learning new ones - **Nuxt and TypeScript***.
 
 ---
 
